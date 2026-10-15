@@ -1,13 +1,16 @@
-# GCTP_ADMM videos
+# GCTP-ADMM Simulation Videos
 
-Multi-UAV trajectory animations rendered from the configured scenes.
+[Project overview](../README.md)
 
-| Scene | MP4 |
-| --- | --- |
-| Single-direction maze (5 UAVs) | [Play / download](maze_default_5uav.mp4) |
-| Bidirectional maze (6 UAVs) | [Play / download](bidirectional_maze_6uav.mp4) |
-| Hexagonal-prism crossing (8 UAVs) | [Play / download](hex_prism_opposite_8uav.mp4) |
+## One-Way Maze — 5 UAVs
 
-The videos show obstacles, safe flight corridors, UAV trajectories, and moving oriented UAV bodies. Distance metrics, frame counters, angular-velocity text, and angular-velocity arrows are hidden.
+https://github.com/user-attachments/assets/4c783664-a49d-455b-90cd-9538f5ba6258
 
-Encoding: H.264, yuv420p, 1080 x 766, 12 fps, with fast-start metadata for browser playback. Frame sampling follows scenario_config.yaml (animation_frame_stride: 2).
+## Two-Way Maze — 6 UAVs
+
+https://github.com/user-attachments/assets/c5586bd9-d08a-4b33-b6a7-6a7f86cb6bd3
+
+## Crossing Paths — 8 UAVs
+
+https://github.com/user-attachments/assets/c49ccdb9-eab4-41eb-88b0-ed6775c6108e
+
